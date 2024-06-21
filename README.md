@@ -1,4 +1,4 @@
-export const FundamentalsPlaylist: playlistInfo = {
+{
   playlistHeader: 'SEO NEO Fundamentals',
   playlistSubHeader:
     'This video series is tailored for beginners, focusing on the crucial terms and concepts of SEO Neo.',
