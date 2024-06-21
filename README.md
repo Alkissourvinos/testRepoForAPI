@@ -5,7 +5,7 @@
     {
       "title": "Accounts & Account Buckets",
       "description": "Learn the basic about Accounts and Account Buckets",
-      "thumbnail": "accountBucketsThumbnail",
+      "thumbnail": https://github.com/Alkissourvinos/testRepoForAPI/assets/72436770/624489bf-d707-4deb-98ca-7fb5f6081640',
       "duration": 3,
       "videoURL": "https://youtu.be/E-rS94B5_MM?si=M16swswrfBWVK5f-"
     },
