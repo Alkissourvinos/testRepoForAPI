@@ -1,34 +1,12 @@
 {
-  
   "fundamentals": {
-    "id":0,
+    "id": 0,
     "playlistHeader": "SEO NEO Fundamentals",
     "playlistSubHeader": "This video series is tailored for beginners, focusing on the crucial terms and concepts of SEO Neo.",
     "playlistData": [
       {
         "title": "Accounts & Account Buckets",
         "description": "Learn the basic about Accounts and Account Buckets",
-        "thumbnail": "https://i.imgur.com/QBmh2gI.jpg",
-        "duration": 3,
-        "videoURL": "https://youtu.be/E-rS94B5_MM?si=M16swswrfBWVK5f-"
-      },
-      {
-        "title": "Account Templates",
-        "description": "Learn the basic about Account Templates",
-        "thumbnail": "https://i.imgur.com/k0dBHlX.jpg",
-        "duration": 3,
-        "videoURL": "https://youtu.be/q-Yxap82F5U?si=NPzOYd2W1NAPCzSL"
-      },
-      {
-        "title": "Content Buckets",
-        "description": "Learn the basic about Content Buckets",
-        "thumbnail": "https://i.imgur.com/Nn1sZsZ.png",
-        "duration": 4,
-        "videoURL": "https://youtu.be/t1bJeJR3Wpg?si=pIPkE26Pibff2BOS"
-      },
-      {
-        "title": "Accounts & Account Buckets",
-        "description": "Learn the basic about Accounts and Account Buckets buckets",
         "thumbnail": "https://i.imgur.com/TsXYMfM.jpg",
         "duration": 3,
         "videoURL": "https://youtu.be/E-rS94B5_MM?si=M16swswrfBWVK5f-"
@@ -50,10 +28,38 @@
     ]
   },
   "tips&tricks": {
-    "id":1,
+    "id": 1,
     "playlistHeader": "SEO NEO Tips & Tricks",
     "playlistSubHeader": "A series of videos on how to use SEO Neo and how to utilize it's features.",
     "playlistData": [
+      {
+        "title": "Using Wizards",
+        "description": "Learn how to streamline your campaign creation process",
+        "thumbnail": "https://i.imgur.com/fQSSXwC.jpg",
+        "duration": 3,
+        "videoURL": "https://youtu.be/ue4dulRDXNo?si=nuugxBGe_RXGT8BP"
+      },
+      {
+        "title": "Campaign Linking",
+        "description": "Learn how to automate the running of your campaign in a seamless execution chain",
+        "thumbnail": "https://i.imgur.com/URY5q3L.jpg",
+        "duration": 4,
+        "videoURL": "https://youtu.be/qUbD08zApnU?si=pq6uokCuzv6eyWe6"
+      },
+      {
+        "title": "Scraping Rich Content",
+        "description": "Learn how to scrap Images and Videos from the Web to inhance your Content",
+        "thumbnail": "https://i.imgur.com/0MEobEH.png",
+        "duration": 3,
+        "videoURL": "https://youtu.be/OqGiYd1P7JU?si=O3luvWikWjW_7Cdn"
+      },
+      {
+        "title": "Using OpenAI for Content Buckets",
+        "description": "Learn how to generate OpenAI secret key (API key) and how to set it on SEO Neo.",
+        "thumbnail": "https://i.imgur.com/xEBTduj.png",
+        "duration": 3,
+        "videoURL": "https://youtu.be/cVdeYw-PIuk?si=z4FOFtaGzwcuFy_U"
+      },
       {
         "title": "Using Gmails",
         "description": "Learn the basic about Accounts and Account Buckets",
@@ -67,6 +73,27 @@
         "thumbnail": "https://i.imgur.com/zZKdB0p.jpg",
         "duration": 2,
         "videoURL": "https://youtu.be/TyNOtjwPlU4?si=DIc7LsIU8t6fpEQc"
+      },
+      {
+        "title": "How to Export Debug Report",
+        "description": "Learn how to export the Debug report for better customer service",
+        "thumbnail": "https://i.imgur.com/U4Ek5Yl.jpg",
+        "duration": 2,
+        "videoURL": "https://youtu.be/gOXJ4JNYPNk?si=65hiLTFcLYy9jqKh"
+      },
+      {
+        "title": "How to Import Accounts From SEO AP",
+        "description": "Learn how to import existing accounts from SEO Autopilot to SEO Neo",
+        "thumbnail": "https://i.imgur.com/8LBitbY.jpg",
+        "duration": 2,
+        "videoURL": "https://youtu.be/uhZbb9Ps6W8?si=BipZZIjMHivFta9o"
+      },
+      {
+        "title": "Migrating Your Installation",
+        "description": "Learn where to locate the 'seoneo' folder that holds all your crucial SEO Neo information such as campaigns, accounts, diagrams, and more.",
+        "thumbnail": "https://i.imgur.com/hQWJSR2.jpg",
+        "duration": 1,
+        "videoURL": "https://youtu.be/0Gfi0KZekM8?si=bR2EB8VAbfj5szXG"
       }
     ]
   }
