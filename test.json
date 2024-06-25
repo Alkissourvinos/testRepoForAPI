@@ -1,5 +1,7 @@
 {
+  
   "fundamentals": {
+    "id":0,
     "playlistHeader": "SEO NEO Fundamentals",
     "playlistSubHeader": "This video series is tailored for beginners, focusing on the crucial terms and concepts of SEO Neo.",
     "playlistData": [
@@ -48,6 +50,7 @@
     ]
   },
   "tips&tricks": {
+    "id":1,
     "playlistHeader": "SEO NEO Tips & Tricks",
     "playlistSubHeader": "A series of videos on how to use SEO Neo and how to utilize it's features.",
     "playlistData": [
