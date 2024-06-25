@@ -46,18 +46,25 @@
         "videoURL": "https://youtu.be/t1bJeJR3Wpg?si=pIPkE26Pibff2BOS"
       }
     ]
-  }
+  },
   "tips&tricks": {
-     "playlistHeader": "SEO NEO Tips & Tricks",
+    "playlistHeader": "SEO NEO Tips & Tricks",
     "playlistSubHeader": "A series of videos on how to use SEO Neo and how to utilize it's features.",
     "playlistData": [
       {
         "title": "Using Gmails",
-        "description": "Learn the basic about Accounts and Account Buckets",
+        "description": "Learn how to use Gmails",
         "thumbnail": "https://i.imgur.com/QBmh2gI.jpg",
         "duration": 2,
         "videoURL": "https://youtu.be/6CWLaw8NGsg?si=Y-dk4HprsBHPp_RV"
       },
+      {
+        "title": "The Right Way to Use Proxies",
+        "description": "Learn how to use Proxies the right way",
+        "thumbnail": "https://i.imgur.com/zZKdB0p.jpg",
+        "duration": 3,
+        "videoURL": "https://youtu.be/TyNOtjwPlU4?si=uYbrigV-V9Wtb3ek"
+      }
     ]
   }
 }
