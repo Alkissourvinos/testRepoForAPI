@@ -108,6 +108,27 @@
         "thumbnail": "https://i.imgur.com/fQSSXwC.jpg",
         "duration": 3,
         "videoURL": "https://www.youtube.com/embed/ue4dulRDXNo?si=EZE7cgqALyqj8KTo"
+      },
+       {
+        "title": "Campaign Linking",
+        "description": "Learn how to automate the running of your campaign in a seamless execution chain",
+        "thumbnail": "https://i.imgur.com/URY5q3L.jpg",
+        "duration": 4,
+        "videoURL": "https://www.youtube.com/embed/qUbD08zApnU?si=V82Xtshc77Q67Mmh"
+      },
+      {
+        "title": "Scraping Rich Content",
+        "description": "Learn how to scrap Images and Videos from the Web to inhance your Content",
+        "thumbnail": "https://i.imgur.com/0MEobEH.png",
+        "duration": 3,
+        "videoURL": "https://www.youtube.com/embed/OqGiYd1P7JU?si=ZMNMPNUdTqsLzgUC"
+      },
+      {
+        "title": "Using OpenAI for Content Buckets",
+        "description": "Learn how to generate OpenAI secret key (API key) and how to set it on SEO Neo.",
+        "thumbnail": "https://i.imgur.com/xEBTduj.png",
+        "duration": 3,
+        "videoURL": "https://www.youtube.com/embed/cVdeYw-PIuk?si=4-XZLiqeGqMwcCdw"
       }
     ]
   } 
